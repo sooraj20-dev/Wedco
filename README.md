@@ -68,7 +68,7 @@ Ensure the following are installed:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/WedCo.git
+git clone https://github.com/sooraj20-dev/Wedco
 cd WedCo
 
 # Install dependencies
